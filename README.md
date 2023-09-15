@@ -1,1 +1,1 @@
-
+Discover the story of London's bike-sharing ecosystem! I've conducted detailed Exploratory Data Analysis (EDA), used Python to clean the data, and brought it to life with captivating visualizations in Tableau. Explore answers to questions like moving averages, weather impacts, and ride trends. 
